@@ -28,8 +28,8 @@ HallwayRoomID = 0
 LivingRLabel1_Boring = "Prefieres ir por el pasillo hacia la siguiente habitación, pensando en tus queridos humanos."
 LivingRLabel1_Normal = "Empiezas a darle con tus patitas a los libros, hasta que se caen y se abren en el suelo."
 LivingRLabel1_Chaotic = (
-    'Has saltado con todas tus fuerzas y has cogido ese paragüas'
-    '\nque siempre intentas morder cuando tu humano sale con el.'
+    'Has saltado con todas tus fuerzas y has cogido ese paraguas'
+    '\nque siempre intentas morder cuando tu humano sale con él.'
     '\nEl paragüero ha caido mostrando que hay más de ellos!'
     '\nSaltas de felicidad con el paraguas en la boca golpeándolo contra las paredes.'
     )
@@ -56,7 +56,7 @@ KitchenLabel1_Chaotic = (
 
 KitchenLabel2 = (
     'Estás en la cocina, sin duda tu lugar favorito.'
-    '\nEsas sobras recien hechas, esas salchichas de la nevera...'
+    '\nEsas sobras recién hechas, esas salchichas de la nevera...'
     '\nNevera que puedes ver claramente frente a tí.'
     )
 
@@ -73,7 +73,8 @@ BedroomLabel1_Boring = "Piensas que no podrás obtener lo que deseas si ellos no
 BedroomLabel1_Normal = (
     'Empiezas a ladrarle a la nevera una y otra vez, lo más fuerte que puedas.'
     '\nde repente ves como se mueve la lampara del techo, mientras escuchas unos golpes.'
-    '\nCallas pero la nevera no se abre.Tal vez en otra ocasion lo haga.'
+    '\nCallas pero la nevera no se abre.' 
+    '\nTal vez en otra ocasion lo haga.'
     )
 BedroomLabel1_Chaotic = (
     'Empiezas a meter tus patitas en el lateral de la puerta,'
